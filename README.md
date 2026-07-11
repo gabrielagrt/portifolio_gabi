@@ -1,5 +1,3 @@
-# portifolio_gabi
-
 # Education
 - Master’s in Mechanical and Aeronautical Engineering (03.2025 - 2027) - Aeronautics Institute of Technology (ITA), São José dos Campos, São Paulo, Brazil
 - Bachelor of Astronomy (11.2020 - 02.2025) Valongo Observatory, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil
